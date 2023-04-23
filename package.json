@@ -1,0 +1,25 @@
+{
+  "name": "@ausuliv/create-top-react-app",
+  "description": "A utility for scaffolding React projects in The Odin Project curriculum",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wise-king-sullyman/create-TOP-react-app"
+  },
+  "bugs": {
+    "url": "https://github.com/wise-king-sullyman/create-TOP-react-app"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "create-top-react-app": "./main.js"
+  },
+  "scripts": {},
+  "dependencies": {
+    "degit":"^2.8.4",
+    "commander":"^10.0.1"
+  }
+}
