@@ -1,7 +1,7 @@
 {
   "name": "@wise-king-sullyman/create-top-react-app",
   "description": "A utility for scaffolding React projects in The Odin Project curriculum",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wise-king-sullyman/create-TOP-react-app"
